@@ -38,24 +38,17 @@ This project combines machine learning and generative AI to help farmers make da
 
 ### 🤖 AI Farming Assistant
 
-<img src="screenshots/ai_farming_assistant.jpg" width="760">
-
-![AI Farming Assistant](screenshots/ai_farming_assistant.jpg)
+<img src="ai...jpeg" width="760" alt="AI Farming Assistant">
 
 > 💬 AI-powered farming assistant that provides guidance on irrigation, fertilizers, soil, pests, crop yield, temperature, and rainfall.
 
-<img src="screenshots/ai_farming_conversation.jpg" width="760">
-
-![AI Farming Conversation](screenshots/ai_farming_conversation.jpg)
+<img src="ai2.jpeg" width="760" alt="AI Farming Conversation">
 
 > 🌱 Interactive conversation interface where farmers can ask questions and receive practical farming recommendations.
 
-<img src="screenshots/ai_farming_restriction.jpg" width="760">
-
-![AI Farming Query Handling](screenshots/ai_farming_restriction.jpg)
+<img src="ai3.jpeg" width="760" alt="AI Farming Query Handling">
 
 > 🤖 The chatbot focuses on farming-related queries and provides relevant agricultural guidance.
-
 ## ✨ Features
 
 - 🌱 **Crop Recommendation** — XGBoost model trained on climate + soil datasets, predicting across 5+ crop types with high accuracy
