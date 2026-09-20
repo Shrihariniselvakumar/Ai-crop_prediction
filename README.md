@@ -38,14 +38,23 @@ This project combines machine learning and generative AI to help farmers make da
 
 ### 🤖 AI Farming Assistant
 
-<p align="center">
-  <img src="screenshots/ai_farming_assistant.jpg" width="32%">
-  <img src="screenshots/ai_farming_conversation.jpg" width="32%">
-  <img src="screenshots/ai_farming_restriction.jpg" width="32%">
-</p>
+<img src="screenshots/ai_farming_assistant.jpg" width="760">
 
-> 💬 The AI Farming Assistant provides farming-specific guidance on irrigation, fertilizers, soil, pests, crop yield, temperature, and rainfall through a conversational AI interface.
----
+![AI Farming Assistant](screenshots/ai_farming_assistant.jpg)
+
+> 💬 AI-powered farming assistant that provides guidance on irrigation, fertilizers, soil, pests, crop yield, temperature, and rainfall.
+
+<img src="screenshots/ai_farming_conversation.jpg" width="760">
+
+![AI Farming Conversation](screenshots/ai_farming_conversation.jpg)
+
+> 🌱 Interactive conversation interface where farmers can ask questions and receive practical farming recommendations.
+
+<img src="screenshots/ai_farming_restriction.jpg" width="760">
+
+![AI Farming Query Handling](screenshots/ai_farming_restriction.jpg)
+
+> 🤖 The chatbot focuses on farming-related queries and provides relevant agricultural guidance.
 
 ## ✨ Features
 
